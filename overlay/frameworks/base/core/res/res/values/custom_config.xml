@@ -54,7 +54,7 @@
     <bool name="config_notifyClientOnFingerprintCancelSuccess">false</bool>
 
     <!-- Wheter to enable doze always on -->
-    <bool name="config_enableDozeAlwaysOn">false</bool>
+    <bool name="config_enableDozeAlwaysOn">true</bool>
 
     <!-- Whether device has dash charging support -->
     <bool name="config_hasDashCharger">true</bool>
