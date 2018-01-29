@@ -43,7 +43,6 @@
     <!-- Do the battery/notification LEDs support pulsing?
          Used to decide if we show pulse settings -->
     <bool name="config_ledCanPulse">true</bool>
-    <bool name="config_button_brightness_support">true</bool>
     <integer name="config_button_brightness_default">250</integer>
     <bool name="config_dozeAlwaysOnDisplayAvailable">true</bool>
     <bool name="config_displayBlanksAfterDoze">true</bool>
